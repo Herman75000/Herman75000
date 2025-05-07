@@ -1,8 +1,8 @@
-##**Home page**
+## **Home page**
 
 # Hi there, I'm [Achiri Herman] ! 👋
 
-![Banner Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.lewagon.com%2Fcareer%2Fsoftware-engineer%2F&psig=AOvVaw0AanRRRPzicSiipMnx6U3O&ust=1746739842471000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLii55anko0DFQAAAAAdAAAAABAE)
+![Banner Image](https://i0.wp.com/blog.lewagon.com/wp-content/uploads/2023/07/radowan-nakif-rehan-cYyqhdbJ9TI-unsplash-1.jpg?w=600&ssl=1)
 
 ## About Me 🚀
 
