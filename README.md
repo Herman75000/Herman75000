@@ -1,6 +1,6 @@
 ## **Home page**
 
-# Hi there, I'm ![Achiri Herman] ! 👋
+# Hi there, I'm ![Achiri Herman]() 👋
 
 ![Banner Image](https://i0.wp.com/blog.lewagon.com/wp-content/uploads/2023/07/radowan-nakif-rehan-cYyqhdbJ9TI-unsplash-1.jpg?w=600&ssl=1)
 
@@ -24,7 +24,7 @@ I'm a passionate **[Junior web developer]** with experience in **[in front end d
 
 ## Featured Projects 💻
 
-### [Project 1 Title](https://artoftesting.com/wp-content/uploads/2020/01/software-engineering-featured.jpg)
+### [Project 1 Title](https://phoenixnap.com/glossary/wp-content/uploads/2023/09/what-is-software-engineering.jpg)
 
 ![Project 1 Screenshot]([project_1_screenshot_url](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mtu.edu%2Fcs%2Fundergraduate%2Fsoftware%2Fwhat%2F&psig=AOvVaw0AanRRRPzicSiipMnx6U3O&ust=1746739842471000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLii55anko0DFQAAAAAdAAAAABAI))
 
