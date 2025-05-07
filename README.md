@@ -1,6 +1,6 @@
 ## **Home page**
 
-# Hi there, I'm [Achiri Herman] ! 👋
+# Hi there, I'm ![Achiri Herman] ! 👋
 
 ![Banner Image](https://i0.wp.com/blog.lewagon.com/wp-content/uploads/2023/07/radowan-nakif-rehan-cYyqhdbJ9TI-unsplash-1.jpg?w=600&ssl=1)
 
@@ -24,7 +24,7 @@ I'm a passionate **[Junior web developer]** with experience in **[in front end d
 
 ## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
+### [Project 1 Title](https://artoftesting.com/wp-content/uploads/2020/01/software-engineering-featured.jpg)
 
 ![Project 1 Screenshot]([project_1_screenshot_url](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mtu.edu%2Fcs%2Fundergraduate%2Fsoftware%2Fwhat%2F&psig=AOvVaw0AanRRRPzicSiipMnx6U3O&ust=1746739842471000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLii55anko0DFQAAAAAdAAAAABAI))
 
@@ -32,7 +32,7 @@ I'm a passionate **[Junior web developer]** with experience in **[in front end d
 
 ### [Project 2 Title](https://www.google.com/url?sa=i&url=https%3A%2F%2Fphoenixnap.com%2Fglossary%2Fwhat-is-software-engineering&psig=AOvVaw0AanRRRPzicSiipMnx6U3O&ust=1746739842471000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLii55anko0DFQAAAAAdAAAAABAR)
 
-![Project 2 Screenshot](project_2_screenshot_url)
+![Project 2 Screenshot](https://www.mtu.edu/cs/undergraduate/software/what/images/software-engineering-banner2400.jpg)
 
 **[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
 
